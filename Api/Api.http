@@ -1,0 +1,6 @@
+@Api_HostAddress = https://localhost:7036
+
+POST {{Api_HostAddress}}/notification/
+Accept: application/json
+
+###
